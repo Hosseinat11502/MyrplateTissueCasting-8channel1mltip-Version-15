@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this protocol, please cite the culture-protocol source below and/or this repository."
+title: "myrPlate ECT Casting: An Opentrons Flex 8-Channel Protocol for Half-Plate Fibroblast/Collagen Master-Mix Dispensing"
+authors:
+  - family-names: "[Your last name]"
+    given-names: "[Your first name]"
+    affiliation: "[Your institution]"
+date-released: 2026-08-02
+version: "15.0"
+repository-code: "https://github.com/<your-username>/<your-repo>"
+references:
+  - type: article
+    title: "Fibroblast Derived Human Engineered Connective Tissue for Screening Applications"
+    authors:
+      - family-names: "Santos"
+        given-names: "Gabriela L."
+      - family-names: "Meyer"
+        given-names: "Tim"
+      - family-names: "Tiburcy"
+        given-names: "Malte"
+      - family-names: "DeGrave"
+        given-names: "Alisa"
+      - family-names: "Zimmermann"
+        given-names: "Wolfram-Hubertus"
+      - family-names: "Lutz"
+        given-names: "Susanne"
+    journal: "Journal of Visualized Experiments"
+    issue: "174"
+    year: 2021
+    doi: "10.3791/62700"
+    url: "https://www.jove.com/t/62700"
+preferred-citation:
+  type: article
+  title: "myrPlate ECT Casting: An Opentrons Flex 8-Channel Protocol for Half-Plate Fibroblast/Collagen Master-Mix Dispensing"
+  authors:
+    - family-names: "[Your last name]"
+      given-names: "[Your first name]"
+  journal: "bioRxiv"
+  year: 2026
+  doi: "[add once assigned]"
+  url: "[add bioRxiv link once posted]"
