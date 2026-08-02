@@ -7,7 +7,7 @@ once from a 12-well reservoir and dispenses simultaneously into all 8 wells of
 a column at a time, across 3 columns — filling half the plate in one run.
 
 📄 **Preprint / manuscript:** `[DOI or bioRxiv link — will be added here once available]`
-🎥 **Video of a live run:** `[filename — add once uploaded]` (5× sped up)
+🎥 **Video of a live run:** `Myrplate casting-V15-5Xspeed-Compact.mp4` (5× sped up)
 🔗 **Related project:** [myrPlate EHT Casting (V20, 1-channel)](https://github.com/Hosseinat11502/MyrplateTissueCasting-1channel1mltip-Version-20) — see comparison below.
 
 ---
