@@ -6,7 +6,7 @@ wells of a **myrPlate** (`myrplate_48_wellplate_800ul`) using an Opentrons
 once from a 12-well reservoir and dispenses simultaneously into all 8 wells of
 a column at a time, across 3 columns — filling half the plate in one run.
 
-📄 **Preprint / manuscript:** `[DOI or bioRxiv link — add once posted]`
+📄 **Preprint / manuscript:** `[DOI or bioRxiv link — will be added here once available]`
 🎥 **Video of a live run:** `[filename — add once uploaded]` (5× sped up)
 🔗 **Related project:** [myrPlate EHT Casting (V20, 1-channel)](https://github.com/Hosseinat11502/MyrplateTissueCasting-1channel1mltip-Version-20) — see comparison below.
 
@@ -41,8 +41,8 @@ referenced at <https://www.jove.com/t/62700>.
 | | **This repo — V15** | [V20 (EHT)](https://github.com/Hosseinat11502/MyrplateTissueCasting-1channel1mltip-Version-20) |
 |---|---|---|
 | Tissue type | Engineered connective tissue (ECT) | Engineered heart tissue (EHT) |
-| Cell type | Human fibroblasts | Cardiomyocytes |
-| Master mix | Collagen type I + fibroblasts | Collagen type I + cardiomyocytes |
+| Cell type | Fibroblasts/stromal cells | Co-culture of fibroblasts and cardiomyocytes |
+| Master mix | Collagen type I + fibroblasts | Collagen type I + cardiomyocytes+fibroblasts |
 | Culture medium | DMEM-based (fibroblast growth medium) | EHMM (engineered heart muscle medium) |
 | Culture protocol reference | Santos et al. 2021, *J. Vis. Exp.*, [doi:10.3791/62700](https://doi.org/10.3791/62700) | Tiburcy et al. 2017, *Circulation* 135:1832–1847, [doi:10.1161/CIRCULATIONAHA.116.024145](https://doi.org/10.1161/CIRCULATIONAHA.116.024145); also used in Goodarzi Hosseinabadi, [arXiv:2508.19854](https://arxiv.org/abs/2508.19854) |
 | Pipette | 8-channel 1000 µL | 1-channel 1000 µL |
@@ -133,10 +133,8 @@ link at the top of this README.)
 
 ## Citation
 
-If you use this protocol, please cite the culture-protocol source
-(Santos et al. 2021, [doi:10.3791/62700](https://doi.org/10.3791/62700)) and
-this repository / the accompanying preprint once posted (see `CITATION.cff`).
+If you use this protocol, please cite this repository and the accompanying preprint once posted (see `CITATION.cff`).
 
 ## License
 
-MIT — see `LICENSE`.
+MIT.
